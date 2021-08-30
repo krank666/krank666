@@ -6,11 +6,10 @@
 -  我是一名前端工程师: Krank
 
 平时写写VUE，会玩小程序，懂点React,还会写点Golang
-- Javascript 能力值：S
-- VUE  能力值：S
-- 小程序（UNIAPP,原生） 能力值:A
-- React 能力值:B
-- Golang 能力值：B
+- JS是世界上最好的语言 😃
+- 如果你用Go，那么最好的语言再加个Go 😜
+- 代码从来都是给人看的 🤞
+- 谢谢你不是卷王 🤦‍♂️
 ---
 Repos:
 

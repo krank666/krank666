@@ -13,4 +13,4 @@
 ---
 Repos:
 
-- 🕊 [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) 真正提升你开发速度的基础框架（我是框架前端的初创人之一哦）
+- 🕊 [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) 真正提升你开发速度的基础框架（我是框架前端的初创人之一）

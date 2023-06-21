@@ -1,9 +1,9 @@
-### 留步！ 
+###  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=krank666&count_private=true&show_icons=true&theme=radicalhide_title=true&show_icons=true" />
 
--  如果你想联系我:Sam-and-Dean
 -  我是一名前端工程师: Krank
+-  🐕❤
 
 平时写写VUE，会玩小程序，懂点React,还会写点Golang
 - JS是世界上最好的语言 😃
